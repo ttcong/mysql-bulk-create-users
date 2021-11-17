@@ -2,6 +2,7 @@
 Small tool for tired DBAs.
 
 Create users (with random strong password), grant all privileges on their databases (create database if need).
+Also support very old syntax of MySQL <=5.5, Mariadb <=10.1
 
 Input:
 + MySQL Credential files .my.cnf (as sample)
